@@ -4,8 +4,7 @@
 
 <div class="help">
 <h2>How to use</h2>
-<p><code><pre>
-python -m venv .venv
+<p><code><pre>python -m venv .venv
 source .venv/bin/activate
 pip3 install <b>requirements.txt</b></pre></code></p>
 
